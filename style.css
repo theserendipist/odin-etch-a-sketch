@@ -1,0 +1,16 @@
+#container {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    box-sizing: border-box;
+    background-color: turquoise;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
